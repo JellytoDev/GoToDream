@@ -1,0 +1,3 @@
+FOUR 18 1
+FIVE 20 1
+SUM 22 1

@@ -1,0 +1,13 @@
+C:\Users\wjdwh\source\repos\networdk_csharp\networdk_csharp\obj\Debug\netcoreapp3.1\networdk_csharp.csprojAssemblyReference.cache
+C:\Users\wjdwh\source\repos\networdk_csharp\networdk_csharp\obj\Debug\netcoreapp3.1\networdk_csharp.csproj.CoreCompileInputs.cache
+C:\Users\wjdwh\source\repos\networdk_csharp\networdk_csharp\obj\Debug\netcoreapp3.1\networdk_csharp.AssemblyInfoInputs.cache
+C:\Users\wjdwh\source\repos\networdk_csharp\networdk_csharp\obj\Debug\netcoreapp3.1\networdk_csharp.AssemblyInfo.cs
+C:\Users\wjdwh\source\repos\networdk_csharp\networdk_csharp\bin\Debug\netcoreapp3.1\networdk_csharp.exe
+C:\Users\wjdwh\source\repos\networdk_csharp\networdk_csharp\bin\Debug\netcoreapp3.1\networdk_csharp.deps.json
+C:\Users\wjdwh\source\repos\networdk_csharp\networdk_csharp\bin\Debug\netcoreapp3.1\networdk_csharp.runtimeconfig.json
+C:\Users\wjdwh\source\repos\networdk_csharp\networdk_csharp\bin\Debug\netcoreapp3.1\networdk_csharp.runtimeconfig.dev.json
+C:\Users\wjdwh\source\repos\networdk_csharp\networdk_csharp\bin\Debug\netcoreapp3.1\networdk_csharp.dll
+C:\Users\wjdwh\source\repos\networdk_csharp\networdk_csharp\bin\Debug\netcoreapp3.1\networdk_csharp.pdb
+C:\Users\wjdwh\source\repos\networdk_csharp\networdk_csharp\obj\Debug\netcoreapp3.1\networdk_csharp.dll
+C:\Users\wjdwh\source\repos\networdk_csharp\networdk_csharp\obj\Debug\netcoreapp3.1\networdk_csharp.pdb
+C:\Users\wjdwh\source\repos\networdk_csharp\networdk_csharp\obj\Debug\netcoreapp3.1\networdk_csharp.genruntimeconfig.cache
